@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599794921957",
+    "project_id": "silver-theme-490807-u1",
+    "storage_bucket": "silver-theme-490807-u1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599794921957:android:119be626f268747b30ff0c",
+        "android_client_info": {
+          "package_name": "com.example.gramawastetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599794921957-eosf6gflmoftgk5jh2lg1ta5d8309qdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaZKkTFMF1cnOZUnWZKUiUvoCYRCzxn0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599794921957-eosf6gflmoftgk5jh2lg1ta5d8309qdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
