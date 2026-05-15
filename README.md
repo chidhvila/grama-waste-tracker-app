@@ -43,19 +43,19 @@ This project solves the problem by providing a smart mobile application for wast
 ## Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.jpeg)
+![Login Page](login.jpeg)
 
 ### Live Map Page
-![Live Map Page](screenshots/live_map.jpeg)
+![Live Map Page](live_map.jpeg)
 
 ### Report Blackspot Page
-![Report Page](screenshots/report.jpeg)
+![Report Page](report.jpeg)
 
 ### Waste Guide Page
-![Guide Page](screenshots/guide.jpeg)
+![Guide Page](guide.jpeg)
 
 ### Profile Page
-![Profile Page](screenshots/profile.png)
+![Profile Page](profile.jpeg)
 ## Technologies Used
 
 - Android Studio
